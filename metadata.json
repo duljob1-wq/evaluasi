@@ -1,0 +1,5 @@
+{
+  "name": "EvalApp - Sistem Evaluasi Pelatihan",
+  "description": "Aplikasi evaluasi pelatihan dengan fitur admin untuk manajemen pelatihan, fasilitator, dan variabel penilaian, serta antarmuka responden yang fleksibel.",
+  "requestFramePermissions": []
+}
